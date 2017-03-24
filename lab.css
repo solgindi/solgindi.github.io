@@ -1,0 +1,59 @@
+.img-fluid {
+    height: 700px;
+    width: 100%;
+}
+.image-title {position: absolute;
+    top:350px;
+    left:500px;
+    font-size: 800%;
+    color: gray;
+}
+
+
+#1 {margin-top: 100px;
+height: 100px;
+}
+
+#2 {margin-top: 100px;
+height: 100px;
+}
+
+#3 {margin-top: 100px;
+height: 100px;
+}
+.img123 {position: absolute;
+    top:350px;
+    left:550px;
+    font-size: 800%;
+    color: White;}
+
+.img-responsive {
+  height: 600px !important;
+  width: 600px !important;
+}
+#word1 {font-size: 100%;
+  color: gray;}
+#word2 {font-size: 100%;
+  color: gray;}
+#word3 {font-size: 100%;
+  color: gray;}
+#word4 {font-size: 100%;
+  color: gray;}
+#word5 {font-size: 100%;
+  color: gray}
+#word6 {font-size: 100%;
+  color: gray}
+.image-title1 {
+position: absolute;
+  top:350px;
+  left:550px;
+  font-size: 800%;
+  color: White;}
+  #hed1 {}
+  #hed3 {font-size: 75%}
+
+  #soldiv {background-image: url("http://plummerconcrete.com/wp-content/uploads/2015/09/Concrete_LightGray.jpg")}
+  #open {position: absolute;
+        font-style:arial;
+        text-align: center;
+}
